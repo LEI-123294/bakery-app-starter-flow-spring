@@ -1,5 +1,8 @@
-CURSO - LEI-PL
-GRUPO - LEIPL-RV
+#  CURSO
+LEI-PL
+
+#  GRUPO
+LEIPL-RV
 
 | Número | Nome           |
 |--------|----------------|
